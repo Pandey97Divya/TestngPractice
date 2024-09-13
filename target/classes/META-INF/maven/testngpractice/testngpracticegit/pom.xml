@@ -36,5 +36,10 @@
 </dependency>
 
 
+  	<dependency>
+  		<groupId>testng</groupId>
+  		<artifactId>project</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
